@@ -1,0 +1,13 @@
+com\dosideas\repository\PaisRepository.class
+com\dosideas\service\PaisService.class
+com\dosideas\domain\Provincia.class
+com\dosideas\exception\ProvinciaNoEncontradaException.class
+com\dosideas\controller\rest\ProvinciaRestController.class
+com\dosideas\controller\ProvinciaController.class
+com\dosideas\controller\rest\PaisRestController.class
+com\dosideas\repository\ProvinciaRepository.class
+com\dosideas\ApplicationConfig.class
+com\dosideas\service\ProvinciaService.class
+com\dosideas\controller\PaisController.class
+com\dosideas\domain\Pais.class
+com\dosideas\exception\PaisNoEncontradoException.class

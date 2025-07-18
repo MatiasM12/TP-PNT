@@ -1,0 +1,13 @@
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\domain\Provincia.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\service\PaisService.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\domain\Pais.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\controller\PaisController.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\controller\rest\PaisRestController.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\repository\PaisRepository.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\controller\rest\ProvinciaRestController.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\exception\ProvinciaNoEncontradaException.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\exception\PaisNoEncontradoException.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\repository\ProvinciaRepository.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\controller\ProvinciaController.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\ApplicationConfig.java
+C:\Users\matia\Desktop\escuelita-ingreso-java-con-spring-framework\src\main\java\com\dosideas\service\ProvinciaService.java
