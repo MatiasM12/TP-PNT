@@ -43,6 +43,10 @@ El objetivo del proyecto es desarrollar un servicio que permita buscar, guardar 
 - Crear una nueva provincia:
   - Valida que el nombre no sea `null` ni menor a 3 caracteres.
   - Guarda usando `save()` de Spring Data.
+ 
+## 🗒️ Diagrama de clases
+
+<img width="935" height="360" alt="diagrama-de-clases" src="https://github.com/user-attachments/assets/f8d85525-9b4e-4b29-8b39-92eeed0a7325" />
 
 ## 🧪 Testing
 
